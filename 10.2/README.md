@@ -38,7 +38,7 @@ node_filesystem_avail_bytes{device="/dev/sdb5", fstype="ext4", instance="localho
 Ответ:
 
 <p align="center">
-  <img width="1200" height="600" src="./images/1.png">
+  <img width="1200" height="600" src="./images/2.png">
 </p>
 
 Задание 3
